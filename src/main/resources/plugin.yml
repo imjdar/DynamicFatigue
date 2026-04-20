@@ -1,0 +1,6 @@
+name: DynamicFatigue
+version: '${version}'
+
+main: com.jdar.dynamicFatigue.DynamicFatigue
+api-version: '1.21.1'
+load: POSTWORLD
